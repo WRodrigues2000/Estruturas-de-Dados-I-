@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Cadastro nome,rua e idade.
+
 struct cadastro{
 
    char nome[20], rua[20];
