@@ -10,6 +10,7 @@ struct cadastro{
 
  };
 
+
 int main(){
 
   FILE *f;
